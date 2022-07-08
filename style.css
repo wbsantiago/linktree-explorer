@@ -95,6 +95,11 @@ h1 {
     font-size: 32px;
 }
 
+.logo-socialmedia {
+    width: 18px;
+    filter: invert(97%) sepia(6%) saturate(1288%) hue-rotate(311deg) brightness(93%) contrast(82%);
+}
+
 ul {
     list-style: none;
     margin: 48px 0;
@@ -111,6 +116,7 @@ ul li a {
     text-transform: uppercase;
     font-size: 14px;
     transition: background 400ms;
+    gap: 5px;
 }
 
 ul li {
