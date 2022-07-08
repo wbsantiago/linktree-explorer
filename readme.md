@@ -7,6 +7,7 @@
 <p>Para implementar o modo escuro através do JavaScript utilizei a feature Toggle Class que basicamente adiciona a class que você deseja através de manipulação de DOM.</p>
 <img src="img/readme-darkmode.png" alt="imagem do botão modo escuro">
 
+Link: https://wbsantiago.github.io/linktree-explorer/
 
 -------------------------------------------------------------------
 
@@ -19,3 +20,5 @@
 <p>After finishing the project, I wanted to implement a dark mode and improve the look of social networks a bit.</p>
 <p>To implement dark mode through JavaScript I used the Toggle Class feature which basically adds the class you want through DOM manipulation.</p>
 <img src="img/readme-darkmode.png" alt="imagem do botão modo escuro">
+
+Link: https://wbsantiago.github.io/linktree-explorer/
